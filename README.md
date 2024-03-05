@@ -6,4 +6,5 @@
   <li>Lunar Lander AI Space Shuttle Landing</li>
   <li>Pac-Man AI Game Player</li>
   <li>AI Kung-Fu Fighter</li>
+  <li>Object Detection in Images</li>
 </ul>
